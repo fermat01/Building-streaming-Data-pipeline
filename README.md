@@ -91,7 +91,7 @@ and
  cd Building-streaming-ETL-Data-pipeline
  ```
 
-c. We'ill Create two folders dags and logs for apache airflow:
+c. We'll Create two folders dags and logs for apache airflow:
 
 ```
 mkdir dags/ logs/
