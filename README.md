@@ -17,7 +17,7 @@ Building streaming Data pipeline using apache airflow, kafka ,...
 ## 1. Project overview and  architecture
 
 
-In this project, we build a real-time ETL (Extract, Transform, and Load) data pipeline.  During this process we will use open api to get data Building a streaming ETL (Extract, Transform, Load) data pipeline involves ingesting real-time data , process and transform , and load it into a data storage or analytics system. This overview outlines the process of building such a pipeline requiring Apache Kafka for data ingestion, Apache Spark for data processing, and Amazon S3 for data storage. 
+In this project, we build a real-time ETL (Extract, Transform, and Load) data pipeline.  During this process we'll use an open api to get data. Building a streaming ETL data pipeline involves ingesting , processing, transforming and loading real-time data into a data storage or analytics system. This overview outlines the process of building such a pipeline requiring Apache Kafka for data ingestion, Apache Spark for data processing, and Amazon S3 for data storage. 
 
 
 <img src="images/streaming-architect.gif" > 
